@@ -1,0 +1,38 @@
+.hero{
+    background: linear-gradient(rgba(15,17,20,0.6),rgba(15,17,20,0.6)),url(/img/img.jpg) no-repeat center/cover;
+    height: 400px;
+}
+
+.left{
+    background: linear-gradient(rgba(253, 249, 249, 0.877),rgba(252, 252, 252, 0.514)),url(img/img\ 3.jpg) no-repeat center/cover;
+    height:100%;
+    margin-top: 20px;
+}
+i{
+   box-sizing: border-box;
+background-color: yellow;
+
+  
+  font-size: 30px;
+ 
+}
+iframe{
+    width: 100%;
+}
+
+body,html{
+    overflow-x: hidden;
+}
+
+.card:hover{
+    border-radius:10px;
+    cursor: pointer;
+    transform: scale(1.1);
+    box-shadow: 0 6px 20px rgba(0, 0, 2, 0.76);
+}
+ .back .card{
+      border-radius:20px;
+}
+body{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+       }
